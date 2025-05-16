@@ -1,5 +1,7 @@
 # NPM Package Starter
 
+### with Typescript, Jest, ESLint etc.
+
 Create NPM packages and publish them with ease.
 
 ```bash
