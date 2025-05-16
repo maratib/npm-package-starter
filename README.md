@@ -1,6 +1,6 @@
 # NPM Package Starter
 
-Create NPM packages and publish theme
+Create NPM packages and publish them with ease.
 
 ```bash
 # To publish the package to NPM
