@@ -4,7 +4,6 @@
     "skipLibCheck": true,
     "target": "es2022",
     "allowJs": true,
-    "resolveJsonModule": true,
     "moduleDetection": "force",
     "lib": ["es2022"],
 
@@ -13,8 +12,7 @@
     "noUncheckedIndexedAccess": true,
     "noImplicitOverride": true,
     "forceConsistentCasingInFileNames": true,
-    "module": "CommonJS",
-
+ 
     /* Path Alias */
     "baseUrl": ".",
     "paths": {
@@ -27,7 +25,8 @@
     "sourceMap": false,
 
     /* AND if you're building for a library: */
-    "declaration": true
+    "declaration": true,
+    
 
     /* AND if you're building for a library in a monorepo: */
     // "declarationMap": true

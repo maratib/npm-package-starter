@@ -4,7 +4,6 @@
     "skipLibCheck": true,
     "target": "es2022",
     "allowJs": true,
-    "resolveJsonModule": true,
     "moduleDetection": "force",
     "lib": ["es2022"],
 
@@ -13,7 +12,6 @@
     "noUncheckedIndexedAccess": true,
     "noImplicitOverride": true,
     "forceConsistentCasingInFileNames": true,
-    "module": "CommonJS",
 
     /* Path Alias */
     "baseUrl": ".",
@@ -25,6 +23,7 @@
     "outDir": "dist",
     "rootDir": "src",
     "sourceMap": false,
+  
 
     /* AND if you're building for a library: */
     "declaration": true
